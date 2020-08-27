@@ -14,3 +14,8 @@ Execute the script
 ```.\register-conformity-app.ps1```
 
 Input the returned values for Application ID and Secret ID into Conformity in order to finish loading your subscriptions.
+
+
+#### Credits
+
+Script was based off the work Octavie van Haaften had done over on his blog http://blog.octavie.nl/index.php/2017/09/19/create-azure-ad-app-registration-with-powershell-part-2
